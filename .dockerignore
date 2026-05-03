@@ -1,0 +1,8 @@
+node_modules
+dist
+coverage
+uploads/products
+tests
+.env
+.env.*
+npm-debug.log*
